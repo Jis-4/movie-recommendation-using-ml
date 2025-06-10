@@ -145,7 +145,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-**Maintainer:** [PhoenixArjun](https://github.com/Phoenixarjun)
+**Maintainer:** Kalash Bhadoriya
 For questions, feature requests, or collaborations, open an issue or contact via GitHub.
 
 ---
